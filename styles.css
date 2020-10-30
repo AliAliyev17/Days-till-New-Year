@@ -1,0 +1,10 @@
+* {
+	box-sizing: border-box;
+}
+
+span {
+	margin: 0px 30px 5px 30px;
+	width: 50px;
+	height: 40px;
+	display: inline-block;
+}
